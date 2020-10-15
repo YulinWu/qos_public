@@ -1,0 +1,98 @@
+package qc.qos.testclient;
+
+import akka.actor.AbstractActor;
+import akka.actor.ActorRef;
+import akka.actor.ActorSystem;
+import akka.actor.Props;
+import akka.japi.pf.ReceiveBuilder;
+import akka.pattern.PatternsCS;
+import org.junit.Test;
+import java.util.Random;
+
+/**
+ * Copyright (c) 2020 onward, Yulin Wu. All rights reserved.
+ *
+ * @author Yulin Wu, mail4ywu@gmail.com/mail4ywu@icloud.com
+ * University of Science and Technology of China
+ */
+public class AkkaAskThreadSafetyIssueTest {
+    private final static int ROUNDS = 5_000_000;
+
+    private static class Receiver extends AbstractActor {
+        Random random = new Random();
+        @Override
+        public Receive createReceive() {
+            return ReceiveBuilder.create()
+                    .matchAny(s -> getSender().tell(random.nextInt(10_000_000), getSelf()))
+                    .build();
+        }
+    }
+
+    private static class Sender extends AbstractActor {
+        private int resp = -1;
+        private final ActorRef receiver;
+        private final ActorRef self;
+        private final long startTime;
+
+        private int roundCount = 0;
+        private int disCount = 0;
+        private int failCount = 0;
+
+        private Sender(ActorRef receiver){
+            this.receiver = receiver;
+            this.self = getSelf();
+            startTime = System.currentTimeMillis();
+            self.tell("a", self);
+        }
+
+        // @Override
+        public Receive createReceive() {
+            return ReceiveBuilder.create()
+                    .matchEquals("a", s ->
+                            PatternsCS.ask(receiver, "a", 100L)
+                                    .toCompletableFuture()
+                                    .thenAccept(x -> resp = (Integer) x)
+                                    .thenRun(() -> self.tell("t", self))
+                    )
+                    .matchEquals("t", s -> {
+                        roundCount++;
+                        disCount++;
+                        if (resp < 0){
+                            failCount ++;
+                            System.out.println("roundCount "+ roundCount+" | failCount "+ failCount);
+                            System.out.println();
+                        } else if (disCount >= 200_000){
+                            System.out.println("roundCount "+ roundCount+" | failCount "+ failCount);
+                            disCount = 0;
+                        }
+                        if (roundCount < ROUNDS){
+                            resp = -1;
+                            self.tell("a", self);
+                        } else {
+                            System.out.println("roundCount "+ roundCount+" | nano sec per round: "
+                                    +((System.currentTimeMillis() - startTime)*1_000_000/roundCount));
+                        }
+                    })
+                    .build();
+        }
+    }
+
+    /*
+    @Test
+    public void doTest1(){
+        ActorSystem actorSystem = ActorSystem.create("TestSystem0");
+        var receiver = actorSystem.actorOf(Props.create(Receiver.class, Receiver::new), "Receiver");
+
+        var sender = actorSystem.actorOf(Props.create(Sender.class, () -> new Sender(receiver)), "Sender");
+
+        try {
+            Thread.sleep(100_000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        } finally {
+            actorSystem.terminate();
+        }
+    }
+
+     */
+}

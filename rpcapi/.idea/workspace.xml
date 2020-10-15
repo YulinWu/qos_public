@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="841078c5-1512-45d8-996d-796bcdec723d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__com_github_wendykierp_JTransforms_3_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_all_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_cdense_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_core_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_ddense_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_dsparse_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_fdense_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_simple_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__org_ejml_ejml_zdense_0_37.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../util/.idea/libraries/Maven__pl_edu_icm_JLargeArrays_1_2.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../api/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/QOSApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/QOSApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/rpc/QOSServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/rpc/QOSServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/rpc/QOSServerApiDeprecated.java" beforeDir="false" afterPath="$PROJECT_DIR$/../api/src/main/java/qc/qos/api/qpx1701/rpc/QOSServerApiDeprecated.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/target/classes/qc/qos/api/qpx1701/QOSApi.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api/target/classes/qc/qos/api/qpx1701/QOSApi.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/target/classes/qc/qos/api/qpx1701/rpc/QOSServer$Context.class" beforeDir="false" afterPath="$PROJECT_DIR$/../api/target/classes/qc/qos/api/qpx1701/rpc/QOSServer$Context.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../api/target/qos-api-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../api/target/qos-api-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../control/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control/src/main/java/qc/qos/control/qpx1701/ReadoutFrequencyFinderNodeImpl0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../control/src/main/java/qc/qos/control/qpx1701/ReadoutFrequencyFinderNodeImpl0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../control/src/main/java/qc/qos/control/qpx1701/ZXTalkCalNodeImpl0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../control/src/main/java/qc/qos/control/qpx1701/ZXTalkCalNodeImpl0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kernel/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kernel/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kernel/src/main/java/qc/qos/kernel/util/props/QPX1701PropsLoaderSettingsStoreImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../kernel/src/main/java/qc/qos/kernel/util/props/QPX1701PropsLoaderSettingsStoreImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kernel/target/classes/qc/qos/kernel/util/props/QPX1701PropsLoaderSettingsStoreImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/../kernel/target/classes/qc/qos/kernel/util/props/QPX1701PropsLoaderSettingsStoreImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kernel/target/qos-kernel-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../kernel/target/qos-kernel-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../math/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/ComplexDouble.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/ComplexDouble.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/ComplexDoubleMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/ComplexDoubleMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/DoubleFFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/DoubleFFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/DoubleMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/DoubleMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/FloatFFT.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/FloatFFT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/FloatMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/FloatMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/IntMath.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/IntMath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/Interpolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/Interpolation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/data/DataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/data/DataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/exception/FittingException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/exception/FittingException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/exception/InterpolationException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/exception/InterpolationException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/exception/MathException.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/exception/MathException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/CurveFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/CurveFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter0CFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter0CFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter0NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter0NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter1CFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter1CFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayFitter1NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayFitter1NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayOscillationFitter0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayOscillationFitter0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayOscillationFitter0CFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayOscillationFitter0CFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayOscillationFitter0DEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayOscillationFitter0DEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ExpDecayOscillationFitter0NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ExpDecayOscillationFitter0NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/GaussianFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/GaussianFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/GaussianFitterCMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/GaussianFitterCMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter0DEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter0DEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter0NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter0NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter1DEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter1DEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/IQDoubleGaussianFitter1NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/IQDoubleGaussianFitter1NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/OscillationFitter0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/OscillationFitter0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/OscillationFitter0CFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/OscillationFitter0CFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/OscillationFitter0DEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/OscillationFitter0DEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/OscillationFitter0NMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/OscillationFitter0NMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/PolynomialFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/PolynomialFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/QuadraticFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/QuadraticFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/RandomizedBenchmarkingFitterCFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/RandomizedBenchmarkingFitterCFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/RandomizedBenchmarkingFitterNMOptimImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/RandomizedBenchmarkingFitterNMOptimImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/ResonatorFrequencyPowerDependecyFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/ResonatorFrequencyPowerDependecyFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XTGGVsBiasModelBHFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XTGGVsBiasModelBHFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XTGGVsBiasModelBHFitterCFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XTGGVsBiasModelBHFitterCFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XTGGVsBiasModelBHFitterDEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XTGGVsBiasModelBHFitterDEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XTGGVsBiasModelBHFitterNMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XTGGVsBiasModelBHFitterNMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyAsymmetricFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyAsymmetricFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyAsymmetricFixedFahFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyAsymmetricFixedFahFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFitterCFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFitterCFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFitterDEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFitterDEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFitterNMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFitterNMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFixedFahFitter.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFixedFahFitter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFixedFahFitterCFImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFixedFahFitterCFImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFixedFahFitterDEImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFixedFahFitterDEImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/fitting/XmonFrequencyFixedFahFitterNMImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/fitting/XmonFrequencyFixedFahFitterNMImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/BivariateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/BivariateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/BivariateFunctionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/BivariateFunctionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/CostFcnBlackHole1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/CostFcnBlackHole1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/CostFcnBlackHoleSeries1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/CostFcnBlackHoleSeries1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/Gaussian1D.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/Gaussian1D.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/LimitFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/LimitFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/MultivariateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/MultivariateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/MultivariateFunctionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/MultivariateFunctionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/QubitF01SelectionCostFcn.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/QubitF01SelectionCostFcn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/SmoothStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/SmoothStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/SmootherStep.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/SmootherStep.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/UnivariateFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/UnivariateFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/UnivariateFunctionEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/UnivariateFunctionEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/AkimaSplineInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/AkimaSplineInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/CubicEqDistUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/CubicEqDistUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/CubicInterpolatorBi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/CubicInterpolatorBi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/DividedDifferenceInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/DividedDifferenceInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/InterpolatorBi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/InterpolatorBi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/InterpolatorBuilder.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/InterpolatorBuilder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/InterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/InterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/LinearEqDistUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/LinearEqDistUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/LinearInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/LinearInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/LoessInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/LoessInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/LoessInterpolatorUniRemoveOutlierImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/LoessInterpolatorUniRemoveOutlierImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/NevilleInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/NevilleInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/PiecewiseCubicSplineInterpolatorBi.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/PiecewiseCubicSplineInterpolatorBi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/QFSCostFcnMutualAvoidingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/QFSCostFcnMutualAvoidingImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/SplineInterpolatorUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/SplineInterpolatorUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/function/interpolation/TODO" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/function/interpolation/TODO" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/optim/DEOptimizerImpl0.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/optim/DEOptimizerImpl0.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/optim/OptimTestProblems.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/optim/OptimTestProblems.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/optim/Optimizer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/optim/Optimizer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/optim/SimplexOptimizerCMathImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/optim/SimplexOptimizerCMathImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/main/java/qc/qos/math/optim/package-info.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/main/java/qc/qos/mathDeprecated/optim/package-info.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/CastPerformanceTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/CastPerformanceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/ComplexDoubleMatrixTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/ComplexDoubleMatrixTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/FitterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/FitterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/FloatMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/FloatMathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/FunctionTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/FunctionTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/IntMathTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/IntMathTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/OptimTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/OptimTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/src/test/java/qc/qos/math/StatDataUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../math/src/test/java/qc/qos/mathDeprecated/StatDataUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/ComplexDouble.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/ComplexDoubleMatrix.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/DoubleFFT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/DoubleMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/FloatFFT.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/FloatMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/IntMath.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/Interpolation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/data/DataUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/CurveFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/CurveFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter0CFImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter0NMImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter1$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter1CFImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayFitter1NMImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayOscillationFitter0$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayOscillationFitter0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayOscillationFitter0CFImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayOscillationFitter0DEImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/ExpDecayOscillationFitter0NMImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/GaussianFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/OscillationFitter0CFImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/OscillationFitter0NMImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/PolynomialFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/QuadraticFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/QuadraticFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/RandomizedBenchmarkingFitterCFImpl$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/RandomizedBenchmarkingFitterCFImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/RandomizedBenchmarkingFitterNMOptimImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyAsymmetricFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyAsymmetricFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyAsymmetricFixedFahFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyAsymmetricFixedFahFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyFixedFahFitter$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/fitting/XmonFrequencyFixedFahFitter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/BivariateFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/BivariateFunctionEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/Gaussian1D.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/MultivariateFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/MultivariateFunctionEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/UnivariateFunction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/UnivariateFunctionEx.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/AkimaSplineInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/AkimaSplineInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/CubicEqDistUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/CubicEqDistUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/CubicInterpolatorBi$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/CubicInterpolatorBi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/DividedDifferenceInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/DividedDifferenceInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/InterpolatorBi$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/InterpolatorBi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/InterpolatorBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/InterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/InterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LinearEqDistUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LinearEqDistUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LinearInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LinearInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LoessInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LoessInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LoessInterpolatorUniRemoveOutlierImpl$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/LoessInterpolatorUniRemoveOutlierImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/NevilleInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/NevilleInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/PiecewiseCubicSplineInterpolatorBi$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/PiecewiseCubicSplineInterpolatorBi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/SplineInterpolatorUni$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/function/interpolation/SplineInterpolatorUni.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/optim/DEOptimizerImpl0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/optim/OptimTestProblems.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/optim/Optimizer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/classes/qc/qos/math/optim/SimplexOptimizerCMathImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../math/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../math/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/qos-math-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../math/target/qos-math-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/CastPerformanceTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/ComplexDoubleMatrixTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/FitterTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/FloatMathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/FunctionTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/IntMathTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/OptimTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../math/target/test-classes/qc/qos/math/StatDataUtil.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../routine/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../routine/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rpc/target/qos-rpc-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../rpc/target/qos-rpc-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/qc/qos/rpcapi/qpx1701/QOSServerApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/qc/qos/rpcapi/qpx1701/QOSServerApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsChangshaGraph201006G1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsChangshaGraph201006G1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsChangshaSimpleGraph200911.java" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsChangshaSimpleGraph200911.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsShenZhenGraph200930.java" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/src/main/java/qc/qos/temp/CreateCalGraphSettingsShenZhenGraph200930.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp/target/qos-temp-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../temp/target/qos-temp-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/src/main/java/qc/qos/testclient/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/src/main/java/qc/qos/testclient/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/src/test/java/qc/qos/testclient/AkkaAskThreadSafetyIssueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/src/test/java/qc/qos/testclient/AkkaAskThreadSafetyIssueTest.java_" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/target/classes/qc/qos/testclient/RunExperiments.class" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/target/classes/qc/qos/testclient/RunExperiments.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/target/classes/qc/qos/testclient/Service.class" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/target/classes/qc/qos/testclient/Service.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testclient/target/test-classes/qc/qos/testclient/AppTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../testclient/target/test-classes/qc/qos/testclient/AppTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../util/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../util/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/src/main/java/qc/qos/util/calibration/QFCOptimizerMutualAvoidingImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../util/src/main/java/qc/qos/util/calibration/QFCOptimizerMutualAvoidingImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/src/main/java/qc/qos/util/calibration/XTGGToBiasMapperModelBH.java" beforeDir="false" afterPath="$PROJECT_DIR$/../util/src/main/java/qc/qos/util/calibration/XTGGToBiasMapperModelBH.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/qos-util-1.0.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/qos-util-1.0.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/surefire-reports/TEST-qc.qos.util.AppTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/surefire-reports/TEST-qc.qos.util.AppTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/surefire-reports/TEST-qc.qos.util.MapperTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/surefire-reports/TEST-qc.qos.util.MapperTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/surefire-reports/qc.qos.util.AppTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/surefire-reports/qc.qos.util.AppTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/target/surefire-reports/qc.qos.util.MapperTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../util/target/surefire-reports/qc.qos.util.MapperTest.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../util/util.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../util/util.iml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/qc/qos/rpcapi/qpx1701/QOSServerApi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="578">
+              <caret line="61" column="60" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bootup</find>
+      <find>runF01BiasDependencyNodeImpl0</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/qc/qos/rpcapi/qpx1701/QOSServerApi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qos-testclient" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="qos-testclient" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="142" />
+    <option name="y" value="-12" />
+    <option name="width" value="1448" />
+    <option name="height" value="2026" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="qpx1701" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="rpcapi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="rpcapi" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="841078c5-1512-45d8-996d-796bcdec723d" name="Default Changelist" comment="" />
+      <created>1602677451900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602677451900</updated>
+      <workItem from="1602677456675" duration="863000" />
+      <workItem from="1602678338320" duration="7000" />
+      <workItem from="1602678383675" duration="41000" />
+      <workItem from="1602678505844" duration="3108000" />
+      <workItem from="1602729885329" duration="1203000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5222000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="71" y="-6" width="1436" height="1013" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.095791005" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19501133" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" visible="true" weight="0.16182874" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/qc/qos/api/QOSServerTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/qc/qos/rpcapi/qpx1701/QOSServerApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="61" column="60" selection-start-line="61" selection-start-column="60" selection-end-line="61" selection-end-column="60" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="26" column="21" lean-forward="true" selection-start-line="26" selection-start-column="21" selection-end-line="26" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
